@@ -24,3 +24,24 @@ A simple Flutter application that demonstrates the following concepts:
 | First Screen | Second Screen | Third Screen |
 |-------------|---------------|---------------|
 | ![FirstScreen](assets/screenshots/FirstScreen.png) | ![SecondScreen](assets/screenshots/SecondScreen.png) | ![ThirdScreen](assets/screenshots/ThirdScreen.png) |
+
+---
+
+
+## 🛠️ Setup Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+
+2. Navigate to the project folder:
+   ```bash
+   cd flutter_application_1
+   
+3. Get dependencies:
+   ```bash
+   flutter pub get
+
+4. Run the app:
+    ```bash
+   flutter run
