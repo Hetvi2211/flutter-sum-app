@@ -23,4 +23,5 @@ A simple Flutter application that demonstrates the following concepts:
 
 | Home Screen | Result Screen |
 |-------------|---------------|
-| ![FirstScreen](assets/screenshots/FirstScreen.png) | ![SecondScreen](assets/screenshots/SecondScreen.png) | ![ThirdScreen](assets/screenshots/ThirdScreen.png) |
+| ![FirstScreen](assets/screenshots/FirstScreen.png) | ![SecondScreen](assets/screenshots/SecondScreen.png) 
+| ![ThirdScreen](assets/screenshots/ThirdScreen.png) |
