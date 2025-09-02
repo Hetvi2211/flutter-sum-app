@@ -1,16 +1,21 @@
-# flutter_application_1
+# 📱 Flutter Sum App
 
-A new Flutter project.
+A simple Flutter application that demonstrates the following concepts:
 
-## Getting Started
+- ✅ Taking user input and calculating the sum of two numbers  
+- ✅ Navigation between multiple screens (`SecondScreen`, `ThirdScreen`)  
+- ✅ Toast messages for user interaction feedback  
+- ✅ Audio player integration for playing local music  
+- ✅ Clean and structured Flutter project setup  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Sum Calculator** – Enter two numbers and instantly get their sum.  
+- **Multi-Screen Navigation** – Practice with multiple screens and navigation.  
+- **Toast Messages** – Quick pop-up messages for better UX.  
+- **Audio Player** – Play an audio file stored in assets.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
