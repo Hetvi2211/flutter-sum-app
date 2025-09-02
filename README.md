@@ -19,6 +19,14 @@ A simple Flutter application that demonstrates the following concepts:
 
 ---
 
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- audioplayers
+- fluttertoast
+
+---
+
 ## 📸 Screenshots
 
 | First Screen | Second Screen | Third Screen |
