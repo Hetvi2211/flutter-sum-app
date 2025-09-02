@@ -21,7 +21,6 @@ A simple Flutter application that demonstrates the following concepts:
 
 ## 📸 Screenshots
 
-| Home Screen | Result Screen |
-|-------------|---------------|
-| ![FirstScreen](assets/screenshots/FirstScreen.png) | ![SecondScreen](assets/screenshots/SecondScreen.png) 
-| ![ThirdScreen](assets/screenshots/ThirdScreen.png) |
+| First Screen | Second Screen | Third Screen |
+|-------------|---------------|---------------|
+| ![FirstScreen](assets/screenshots/FirstScreen.png) | ![SecondScreen](assets/screenshots/SecondScreen.png) | ![ThirdScreen](assets/screenshots/ThirdScreen.png) |
