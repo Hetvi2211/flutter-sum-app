@@ -36,7 +36,7 @@ A simple Flutter application that demonstrates the following concepts:
 ---
 
 
-## 🛠️ Setup Instructions
+## ⚙️ Setup Instructions
 
 1. Clone this repository:
    ```bash
